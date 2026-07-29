@@ -1,0 +1,13 @@
+{
+  "name": "个人执业律师工作台",
+  "short_name": "律师工作台",
+  "description": "案件、期限、任务、证据、文书、沟通与收费一体化管理",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F5F3FC",
+  "theme_color": "#6C5CE7",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
